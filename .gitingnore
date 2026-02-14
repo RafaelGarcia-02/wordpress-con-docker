@@ -1,0 +1,4 @@
+.env
+mysql_data/
+wordpress_data/
+ssl_certs_data/
